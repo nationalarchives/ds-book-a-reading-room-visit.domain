@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>ds_book_a_reading_room_visit.domain</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>The National Archives</Authors>
+    <Company>The National Archives</Company>
+    <Description>Domain objects for the Kew Booking System</Description>
+    <Version>1.1.0</Version>
+    <RepositoryUrl>https://github.com/nationalarchives/ds-book-a-reading-room-visit</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
